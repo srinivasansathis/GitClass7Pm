@@ -11,7 +11,15 @@ public class Sample {
 	public void brazil() {
 		System.out.println("Neymar");
 	}
-	
+	public void belgium() {
+		
+	}
+	public void spain() {
+		
+	}
+	public void france() {
+		
+	}
 	
 
 }
